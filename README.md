@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham2059" alt="shubham2059" /></a> </p>
 
-- 🔭 I’m currently working on [BlogApp](https://github.com/Shubham2059/Blog-App.git)
+- 🔭 I’m currently working on [Blog-App](https://github.com/Shubham2059/Blog-App.git)
 
 - 🌱 I’m currently learning **Node.js, Redux ToolKit**
 
